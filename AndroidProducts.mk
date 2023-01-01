@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/evolution_lavender.mk
+    $(LOCAL_DIR)/tequila_lavender.mk
 
 COMMON_LUNCH_CHOICES := \
-    evolution_lavender-user \
-    evolution_lavender-userdebug \
-    evolution_lavender-eng
+    tequila_lavender-user \
+    tequila_lavender-userdebug \
+    tequila_lavender-eng
